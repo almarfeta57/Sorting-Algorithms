@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615554875 source:d:\c++\tema sortari\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<algorithm>
+
